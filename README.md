@@ -2,5 +2,5 @@
 
 Build A MERN Finance Dashboard App
 
-Gigital Goal 
+Digital Goal  : https://www.youtube.com/@DigitalGoal01
 
